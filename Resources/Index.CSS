@@ -108,7 +108,9 @@ span{
 .cake span,
 .zoom span,
 .pot span,
-.house span{
+.house span,
+.lemon span,
+.hair span{
     background-color: rgba(255, 255, 255, 0.5);
 }
 
@@ -146,7 +148,7 @@ span{
 }
 
 .lemon{
-    background-image: url(./Images/lemonpie.jpeg);
+    background-image: url(./Images/lemonpie.png);
 }
 
 .cake{
@@ -189,5 +191,12 @@ span{
     background-image: url(./Images/house.jpg);
 }
 
+.fall{
+    background-image: url(./Images/fall.png);
+}
+
+.hair{
+    background-image: url(./Images/haircut.jpg);
+}
 
 
