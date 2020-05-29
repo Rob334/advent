@@ -1,0 +1,193 @@
+*{
+    /* border: 1px solid red; */
+    max-width: 100%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Gloria Hallelujah', cursive;
+    background-image: url(./Images/background.png);
+}
+
+.maintext,
+header{
+    max-width: 400px;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 10px;
+}
+
+.picbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.covid{
+    width: 80%;
+}
+
+p{
+    margin: 0;
+}
+
+h3{
+    display: flex;
+    font-family: 'Permanent Marker', cursive;
+    width: 100%;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    margin-bottom: 0;
+    background-size: cover;
+    background-position: center;
+    margin-top: 40px;
+    border: 3px white solid;
+}
+
+span{
+    display: block;
+    height: min-content;
+    width: 100%;
+    text-align: center;
+    /* border: 2px solid blue; */
+}
+
+.devon{
+    background-image: url(./Images/Devon.jpg);
+}
+
+.devon span{
+    background-color:rgba(255, 255, 255, 0.5);
+}
+
+.sorry{
+    background-image: url(./Images/Sorry.jpg);
+}
+
+.wine{
+    background-image: url(./Images/Wineapp.png);
+}
+
+.wine span{
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.drink{
+    background-image: url(./Images/Wine\ Glass.jpeg);
+}
+
+.drink span{
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.disney{
+    background-image: url(./Images/Disney.jpg);
+}
+
+.disney span,
+.coffee span,
+.attic span,
+.lights span{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.sexandcity{
+    background-image: url(./Images/sex&city.jpg);
+}
+
+.sexandcity span,
+.wcommon span,
+.tcommon span,
+.chillie span,
+.milk span,
+.cake span,
+.zoom span,
+.pot span,
+.house span{
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.sleep{
+    background-image: url(./Images/bed.jpg);
+}
+
+.study{
+    background-image: url(./Images/learning.jpeg);
+}
+
+.study span{
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.garden{
+    background-image: url(./Images/gardening.jpg);
+    color: white;
+}
+
+.wcommon{
+    background-image: url(./Images/wcommon.png);
+}
+
+.tcommon{
+    background-image: url(./Images/tcommon.jpg);
+}
+
+.chef{
+    background-image: url(./Images/chef.jpg);
+}
+
+.chillie{
+    background-image: url(./Images/chillie.jpg);
+}
+
+.lemon{
+    background-image: url(./Images/lemonpie.jpeg);
+}
+
+.cake{
+    background-image: url(./Images/Cupcakes.jpg);
+}
+
+.homous{
+    background-image: url(./Images/Houmous.jpg);
+}
+
+.milk{
+    background-image: url(./Images/Milk.jpg);
+}
+
+.coffee{
+    background-image: url(./Images/coffee.png);
+}
+
+.zoom{
+    background-image: url(./Images/werewolf.jpg);
+}
+
+.quiz{
+    background-image: url(./Images/quiz.jpg);
+}
+
+.attic{
+    background-image: url(./Images/attic.jpg);
+}
+
+.pot{
+    background-image: url(./Images/pot.jpg);
+}
+
+.lights{
+    background-image: url(./Images/Wine\ Lights.jpg);
+}
+
+.house{
+    background-image: url(./Images/house.jpg);
+}
+
+
+
